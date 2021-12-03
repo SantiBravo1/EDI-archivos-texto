@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638550523 source:c:\users\administrator\desktop\fork texto\edi-archivos-texto\archivo de texto\main.c
+	<stdio.h>
+	<stdlib.h>
+
